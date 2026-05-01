@@ -130,6 +130,7 @@ Aronas
 - [AMFarhan] (https://github.com/AMFarhan21)
 Nat
 - [Jaehoon Son](https://github.com/JaehoonSon)
+- [Maty Samb].(https://github.com/tymasambou2244-ux)
 - [Harsh Kumar](https://github.com/hars310)
 - [Ashish Verma](https://github.com/ashish39403)
 - [Carson Lin](https://github.com/lstsk)
